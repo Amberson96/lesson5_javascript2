@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2017
 
 ### Student Name:  
-(First and Last Name)
+Amber Anderson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we explored more possibilites with Javascript.
+We adjusted equations to find out an incomes tax rate depending on their filing status.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://amberson96.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Markdown is a tool used to help emphasize words on websites by making them italicized or bolded.
+2. Named functions are related statements with a name assigned, use when you want to reuse code.
+3. An anonymous function is a related statement with no name assigned, use for code that only runs once.
 
